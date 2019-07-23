@@ -59,8 +59,6 @@ This will be your main place for Fullstack related materials!
 
 ## 🐣 Junior Phase
 
-<details>
-
 ### Week 1
 
 Collaboration & Git, HTML & CSS, DOM & Events
