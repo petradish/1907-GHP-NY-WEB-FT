@@ -1,0 +1,3 @@
+- √ Handling URL params
+- (√) `app.use` and (√) `next`
+√ Serving static resources

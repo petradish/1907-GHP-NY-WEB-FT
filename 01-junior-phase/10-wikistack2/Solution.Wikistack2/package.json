@@ -1,0 +1,20 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "html-template-tag": "^2.0.0",
+    "marked": "^0.3.12",
+    "morgan": "^1.9.0",
+    "pg": "^6.4.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.31.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}

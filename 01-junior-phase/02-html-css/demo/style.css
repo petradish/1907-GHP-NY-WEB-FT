@@ -1,0 +1,28 @@
+/* TAG STYLE SELECTOR */
+ul { 
+  background-color: rebeccapurple;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.nav-list {
+  padding: 1rem;
+}
+
+#cardi-b { 
+  border: 5px solid yellow;
+  background-color: #222;
+}
+
+.nav-list {
+  padding: 10rem;
+}
+
+#cardi-b a {
+  color: inherit;
+  text-decoration: none;
+}
+
+p {
+  font-family: fantasy;
+}

@@ -1,0 +1,19 @@
+.header {
+  border-bottom: 2px dashed black;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 300px;
+  border-radius: 100px;
+  box-shadow: 5px 10px 8px black;
+}

@@ -1,0 +1,22 @@
+{
+  "bunnies": [
+    {
+      "id": 1,
+      "name": "Eeyore",
+      "age": 4,
+      "imageUrl": "https://scontent-lga3-1.cdninstagram.com/vp/e461f5fbaaa1c4e54722e2df8f766f85/5D4A29C7/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47581794_2552834304743262_3173155140039450315_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com"
+    },
+    {
+      "id": 2,
+      "name": "Thunder",
+      "age": 7,
+      "imageUrl": "https://scontent-lga3-1.cdninstagram.com/vp/ed7c41a58cc86196157db4812f2349c0/5D324BF7/t51.2885-15/sh0.08/e35/s640x640/50043824_1765673260254162_4549002776130906797_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com"
+    },
+    {
+      "id": 3,
+      "name": "Snuffles",
+      "age": 15,
+      "imageUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/25188827_10155528169023937_4709317760056381259_o.jpg?_nc_cat=111&_nc_ht=scontent-lga3-1.xx&oh=12a11720b18ce1cb16264a3554f42fd8&oe=5D5081FE"
+    }
+  ]
+}

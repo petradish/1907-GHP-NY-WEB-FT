@@ -1,0 +1,14 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "learn about binary search trees through implementation and simulation",
+  "scripts": {
+    "test": "npm run doc && opn docs/bst.spec.html && testem",
+    "doc": "docco test/bst.spec.js"
+  },
+  "devDependencies": {
+    "docco": "^0.7.0",
+    "opn-cli": "^3.1.0",
+    "testem": "^1.18.4"
+  }
+}

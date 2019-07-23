@@ -1,0 +1,13 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "learn about linked lists through implementation and simulation",
+  "scripts": {
+    "test": "npm run doc && opn docs/linked-list.spec.html && testem",
+    "doc": "docco test/linked-list.spec.js"
+  },
+  "devDependencies": {
+    "docco": "^0.7.0",
+    "opn-cli": "^3.1.0"
+  }
+}
