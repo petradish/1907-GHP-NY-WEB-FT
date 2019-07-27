@@ -1,4 +1,4 @@
-# 📚 1907-GH-NY-Library
+# 📚 1907-GHP-NY-WEB-FT
 
 This will be your main place for Fullstack related materials!
 
